@@ -1,0 +1,18 @@
+SKILL: health-check
+CATEGORY: 06 - Music Production
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Bitwize Music Studio
+Copyright notice          : Bitwize Music Studio — dedicated to the public domain (CC0 1.0)
+License                   : CC0 1.0 Universal (Public Domain Dedication)
+Source repository         : bitwize-music-studio/claude-ai-music-skills
+Repository URL            : https://github.com/bitwize-music-studio/claude-ai-music-skills
+Original path in repo     : skills/health-check
+Commit retrieved          : b1b11a67e8ce (2026-07-21)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/bitwize-music-studio_claude-ai-music-skills.txt
+All rights remain with the original author(s).

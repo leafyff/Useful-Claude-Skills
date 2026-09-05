@@ -1,0 +1,18 @@
+SKILL: mysql
+CATEGORY: 08 - Databases
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Sanjay (GitHub: sanjay3290)
+Copyright notice          : © Sanjay (sanjay3290)
+License                   : Apache License 2.0
+Source repository         : sanjay3290/ai-skills
+Repository URL            : https://github.com/sanjay3290/ai-skills
+Original path in repo     : skills/mysql
+Commit retrieved          : 361969210b10 (2026-07-09)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/sanjay3290_ai-skills.txt
+All rights remain with the original author(s).

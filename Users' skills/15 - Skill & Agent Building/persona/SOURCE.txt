@@ -1,0 +1,18 @@
+SKILL: persona
+CATEGORY: 15 - Skill & Agent Building
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : takechanman1228
+Copyright notice          : © 2026 takechanman1228
+License                   : MIT License
+Source repository         : takechanman1228/claude-persona
+Repository URL            : https://github.com/takechanman1228/claude-persona
+Original path in repo     : skills/persona
+Commit retrieved          : b4be6e641421 (2026-07-03)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/takechanman1228_claude-persona.txt
+All rights remain with the original author(s).

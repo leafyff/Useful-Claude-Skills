@@ -1,0 +1,18 @@
+SKILL: kanban-ai
+CATEGORY: 11 - Productivity & Organization
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Matt Joyce (GitHub: mattjoyce)
+Copyright notice          : © Matt Joyce
+License                   : Apache License 2.0
+Source repository         : mattjoyce/kanban-skill
+Repository URL            : https://github.com/mattjoyce/kanban-skill
+Original path in repo     : skills/kanban-ai
+Commit retrieved          : b86a6ec721c4 (2026-03-02)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/mattjoyce_kanban-skill.txt
+All rights remain with the original author(s).

@@ -1,0 +1,18 @@
+SKILL: find-skills
+CATEGORY: 15 - Skill & Agent Building
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : AgentBay (Alibaba)
+Copyright notice          : © 2025 Alibaba. All rights reserved.
+License                   : MIT License
+Source repository         : agentbay-ai/agentbay-skills
+Repository URL            : https://github.com/agentbay-ai/agentbay-skills
+Original path in repo     : find-skills
+Commit retrieved          : 893876e4f74d (2026-02-12)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/agentbay-ai_agentbay-skills.txt
+All rights remain with the original author(s).

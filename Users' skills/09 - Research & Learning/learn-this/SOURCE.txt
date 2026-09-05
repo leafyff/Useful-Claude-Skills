@@ -1,0 +1,18 @@
+SKILL: learn-this
+CATEGORY: 09 - Research & Learning
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Michal Parkola and the Tapestry Skills Contributors
+Copyright notice          : © 2025 Tapestry Skills Contributors
+License                   : MIT License
+Source repository         : michalparkola/tapestry-skills
+Repository URL            : https://github.com/michalparkola/tapestry-skills
+Original path in repo     : learn-this
+Commit retrieved          : 80e1dc56df74 (2026-03-11)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/michalparkola_tapestry-skills.txt
+All rights remain with the original author(s).

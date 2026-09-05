@@ -1,0 +1,19 @@
+SKILL: artifacts-builder
+CATEGORY: 04 - Design & Visual
+NOTE: Fork of Anthropic web-artifacts-builder.
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Composio (ComposioHQ) and contributors
+Copyright notice          : © Composio and the awesome-claude-skills contributors
+License                   : Apache License 2.0
+Source repository         : ComposioHQ/awesome-claude-skills
+Repository URL            : https://github.com/ComposioHQ/awesome-claude-skills
+Original path in repo     : artifacts-builder
+Commit retrieved          : be2a406907db (2026-07-24)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/ComposioHQ_awesome-claude-skills.txt
+All rights remain with the original author(s).

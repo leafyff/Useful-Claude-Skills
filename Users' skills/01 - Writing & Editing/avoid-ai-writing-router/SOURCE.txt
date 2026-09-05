@@ -1,0 +1,18 @@
+SKILL: avoid-ai-writing-router
+CATEGORY: 01 - Writing & Editing
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Conor Bronsdon
+Copyright notice          : © 2026 Conor Bronsdon
+License                   : MIT License
+Source repository         : conorbronsdon/avoid-ai-writing
+Repository URL            : https://github.com/conorbronsdon/avoid-ai-writing
+Original path in repo     : skills/avoid-ai-writing-router
+Commit retrieved          : 905c8902dcf3 (2026-09-04)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/conorbronsdon_avoid-ai-writing.txt
+All rights remain with the original author(s).

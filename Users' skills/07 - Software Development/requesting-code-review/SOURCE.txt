@@ -1,0 +1,18 @@
+SKILL: requesting-code-review
+CATEGORY: 07 - Software Development
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Jesse Vincent (GitHub: obra)
+Copyright notice          : © 2025 Jesse Vincent
+License                   : MIT License
+Source repository         : obra/superpowers
+Repository URL            : https://github.com/obra/superpowers
+Original path in repo     : skills/requesting-code-review
+Commit retrieved          : b36e0829c6d0 (2026-08-12)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/obra_superpowers.txt
+All rights remain with the original author(s).

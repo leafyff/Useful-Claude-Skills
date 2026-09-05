@@ -1,0 +1,18 @@
+SKILL: brand-guidelines
+CATEGORY: 04 - Design & Visual
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Anthropic, PBC
+Copyright notice          : © 2025 Anthropic, PBC. All rights reserved.
+License                   : Anthropic Skill License (proprietary — see LICENSE.txt in each skill)
+Source repository         : anthropics/skills
+Repository URL            : https://github.com/anthropics/skills
+Original path in repo     : skills/brand-guidelines
+Commit retrieved          : 41bbe19d1a1a (2026-09-03)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/anthropics_skills.txt
+All rights remain with the original author(s).

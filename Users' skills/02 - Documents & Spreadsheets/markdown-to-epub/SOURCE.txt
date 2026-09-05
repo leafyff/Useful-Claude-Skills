@@ -1,0 +1,18 @@
+SKILL: markdown-to-epub-converter
+CATEGORY: 02 - Documents & Spreadsheets
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Scott Smerchek (GitHub: smerchek)
+Copyright notice          : © 2025 Scott Smerchek
+License                   : MIT License
+Source repository         : smerchek/claude-epub-skill
+Repository URL            : https://github.com/smerchek/claude-epub-skill
+Original path in repo     : markdown-to-epub
+Commit retrieved          : 7c0723087b9f (2025-10-17)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/smerchek_claude-epub-skill.txt
+All rights remain with the original author(s).

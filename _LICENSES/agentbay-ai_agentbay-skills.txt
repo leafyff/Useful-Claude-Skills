@@ -1,0 +1,32 @@
+LICENSE FOR: agentbay-ai/agentbay-skills
+AUTHOR: AgentBay (Alibaba)
+COPYRIGHT: © 2025 Alibaba. All rights reserved.
+LICENSE TYPE: MIT License
+SOURCE: https://github.com/agentbay-ai/agentbay-skills
+COMMIT: 893876e4f74d (2026-02-12)
+======================================================================
+
+NOTE: This repository ships its MIT license text inside a skill folder
+(im-reminder/LICENSE.txt) rather than at the repository root.
+
+MIT License
+
+Copyright (C) 2025 Alibaba All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

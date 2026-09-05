@@ -1,0 +1,18 @@
+SKILL: video-prompting
+CATEGORY: 05 - Images, Video & Audio
+
+--------------------------------------------------------------------
+COPYRIGHT / ATTRIBUTION
+--------------------------------------------------------------------
+Author / Copyright holder : Square Zero Labs
+Copyright notice          : © Square Zero Labs
+License                   : Apache License 2.0
+Source repository         : Square-Zero-Labs/video-prompting-skill
+Repository URL            : https://github.com/Square-Zero-Labs/video-prompting-skill
+Original path in repo     : video-prompting
+Commit retrieved          : 8d72999ebe8b (2026-08-24)
+Retrieved on              : 2026-09-05
+
+This skill is redistributed unmodified from the repository above.
+The full license text is in:  _LICENSES/Square-Zero-Labs_video-prompting-skill.txt
+All rights remain with the original author(s).
